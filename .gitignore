@@ -1,0 +1,7 @@
+build/
+sdkconfig.old
+LICENSE
+.cproject
+.project
+.settings/
+openocd.log
